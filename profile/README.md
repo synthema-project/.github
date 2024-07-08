@@ -1,6 +1,6 @@
 # SYNTHEMA Project
 
-![SYNTHEMA Logo]([./images/SYNTHEMA_Logo_Horizontal.png](https://github.com/synthema-project/.github/blob/master/images/SYNTHEMA_Logo_Horizontal.png))
+![SYNTHEMA Logo](https://github.com/synthema-project/.github/blob/master/images/SYNTHEMA_Logo_Horizontal.png)
 
 ## Project Information
 
