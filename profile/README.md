@@ -1,6 +1,6 @@
 # SYNTHEMA Project
 
-![SYNTHEMA Logo](./images/SYNTHEMA_Logo_Horizontal.png)
+![SYNTHEMA Logo]([./images/SYNTHEMA_Logo_Horizontal.png](https://github.com/synthema-project/.github/blob/master/images/SYNTHEMA_Logo_Horizontal.png))
 
 ## Project Information
 
@@ -20,6 +20,11 @@ academic research centres, industries and SMEs to advance translational and clin
 * Service: HADEA/A/03
 * Project starting date: fixed date: 1 December 2022
 * Project duration: 48 months
+
+## CI/CD Services
+
+* [Jenkins](https://jenkins.synthema.rid-intrasoft.eu)
+* [Harbor](https://harbor.synthema.rid-intrasoft.eu)
 
 ## Social Media and Website
 
